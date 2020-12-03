@@ -1,0 +1,10 @@
+.item1{
+  grid-area: cover;
+
+}
+
+.grid-container{
+  display: grid;
+  grid-gap: 20px;
+
+}
